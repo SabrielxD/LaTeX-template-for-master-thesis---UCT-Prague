@@ -1,0 +1,91 @@
+\addcontentsline{toc}{section}{List of abbreviations}
+
+\begin{longtable}{ p{.20\textwidth}  p{.80\textwidth} }
+
+2-ME & 2-mercaptoethanol\\
+
+2-MPT & 2-methylpropane-2-thiol\\
+
+AA & amino acid\\
+
+AAs & amino acids\\
+
+ACN & acetonitrile\\
+
+AOAC & Association of Analytical Communities\\
+
+Br-BQCA & 3-(4-bromobenzoyl)chinoline-2-carboxaldehyde\\
+
+CBQCA & 3-(4-carboxybenzoyl)chinoline-2-carboxaldehyde\\
+
+CE & capillary electrophoresis\\
+
+LED & light-emitting diode\\
+
+LEDIF & LED-induced fluorescence\\
+
+LIF & laser-induced fluorescence\\
+
+Cl-BQCA & 3-(4-chlorobenzoyl)chinoline-2-carboxaldehyde\\
+
+CoA & coenzyme A\\
+
+CV & cyclic voltammetry\\
+
+CZE & capillary zone electrophoresis\\
+
+DC & direct current\\
+
+DMF & dimethylformamide\\
+
+DMSO & dimethylsulfoxide\\
+
+ET & ethanethiol\\
+
+FQCA & 3-(2-furoyl)chinoline-2-carboxaldehyde\\
+
+GABA & $\gamma$-a\-mi\-no\-bu\-ty\-ric acid\\
+
+GC & gas chromatography\\
+
+HPLC & high-performance liquid chromatography\\
+
+IEC & ion-exchange chromatography\\
+
+IPA & isophthalaldehyde\\
+
+LC & liquid chromatography\\
+
+MCE & 2-mercaptoethanol\\
+
+MECC & micellar electrokinetic capillary chromatography\\
+
+MPA & 3-mercaptopropionic acid\\
+
+MS & mass spectrometry\\
+
+NAC & N-acetylcysteine\\
+
+NDA & naphthalene-2,3-dicarboxaldehyde\\
+
+NMR & nuclear magnetic resonance\\
+
+OPA & orthophthalaldehyde\\
+
+PDMS & poly(dimethylsiloxane)\\
+
+PEO & poly(ethylenoxide)\\
+
+RP-HPLC & reversed-phase high-performance liquid chromatography\\
+
+SDS & sodium dodecyl sulphate\\
+
+TPA & terephthalaldehyde\\
+
+UPLC & ultra-performance liquid chromatography\\
+
+UV & ultraviolet light\\
+
+Vis & visible light\\
+
+\end{longtable}

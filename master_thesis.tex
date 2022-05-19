@@ -1,0 +1,99 @@
+% Set up by Kristyna Kantnerova on 18-May-2022
+% https://orcid.org/0000-0001-6259-3225
+% https://github.com/SabrielxD
+
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{master_thesis_style} % loading the style package
+
+% a path to figures
+\graphicspath{{figures/}}
+
+%% BEGINNING OF THE DOCUMENT
+\begin{document}
+
+\pagestyle{empty}
+
+%% Abstract
+% cesky
+\input{chapters/abstrakt.tex}
+
+\newpage
+% English
+\input{chapters/abstract.tex}
+
+%% Acknowledgement
+\newpage
+\section*{ACKNOWLEDGEMENT}
+\input{chapters/acknowledgement.tex}
+
+\newpage
+\tableofcontents
+
+%% Main part
+\newpage
+\pagestyle{plain}
+\section{INTRODUCTION}
+\input{chapters/introduction.tex}
+\label{kap:Introduction}
+\clearpage
+
+\newpage
+\section{LITERATURE}
+\input{chapters/literarypart.tex}
+\label{kap:Literary part}
+\clearpage
+
+\newpage
+\section{EXPERIMENT}
+\input{chapters/experimentalpart.tex}
+\label{kap:Experimental part}
+\clearpage
+
+\newpage
+\section{RESULTS AND DISCUSSION}
+\input{chapters/results.tex}
+\label{kap:Results}
+\clearpage
+
+\newpage
+\section{CONCLUSION}
+\input{chapters/conclusion.tex}
+\label{kap:Conclusion}
+\clearpage
+
+\newpage
+\section*{LIST OF ABBREVIATIONS}
+\input{chapters/abbrev.tex}
+
+%% List of figures 
+\clearpage
+\listoffigures
+
+%% List of tables
+\clearpage
+\listoftables
+
+%% Supplementary materials
+\newpage
+\section*{SUPPLEMENTARY MATERIAL}
+% adding it to the table of contents
+\addcontentsline{toc}{section}{SUPPLEMENTARY MATERIAL}
+\appendix
+
+% A - Supplementary tables
+\section{\fontsize{12}{12}\selectfont Tables}
+\label{AppendixA}
+\input{chapters/supplementary_tables.tex}
+\clearpage
+
+% B - Supplementary plots
+\section{\fontsize{12}{12}\selectfont Plots}
+\label{AppendixB}
+\input{chapters/supplementary_plots.tex}
+\clearpage
+
+%%% List of references
+\bibliography{papers} % if you have multiple bib files, never put space after comma
+
+\end{document}

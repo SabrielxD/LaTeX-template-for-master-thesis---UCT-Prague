@@ -1,0 +1,51 @@
+\addtocounter{table}{-1}
+\newgeometry{left=2cm}
+\begin{table}[H]
+  \begin{center}
+	\caption{The composition of the derivatization agents with OPA.}
+  \label{tab:table1}
+  \scriptsize
+	\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{| >{\centering\arraybackslash} m{1.3cm} | >{\centering\arraybackslash} m{1.5cm} | >{\centering\arraybackslash} m{3cm} | >{\centering\arraybackslash} m{0.7cm} | >{\centering\arraybackslash} m{3.5cm} | >{\centering\arraybackslash} m{1.3cm} | >{\centering\arraybackslash} m{3cm} |}
+\hline
+\textbf{literature} & \textbf{separation method} & \textbf{composition of derivatization solution} & \textbf{pH} & \textbf{detection} & \textbf{reaction time} & \textbf{notes}  \\ \hline \hline
+McKenzie et al.\cite{McKenzie2002} & capillary LC & 0.54 \% (w/v) OPA, 0.45 \% (w/v) 2-MPT & 10.5 & electrochemically (cyclic voltammetry) & 5 min & simultaneous determination of catecholamines, kept at room temperature \\ \hline
+	Meussen et al.\cite{Meussen2013} & UPLC & 0.40 \% (w/v) OPA, 0.42 \% (w/v) ET & 10.5 & spectrophotometry (338 nm) &  & every second day a new solution \\ \hline
+	Hanczkó et al.\cite{Hanczko2007} & HPLC & 1.14 \% (w/v) OPA, 0.44 \% (w/v) ET & 9.3 -- 11.3 & spectrophotometry (between 190 and 400 nm), spectrofluorimetry (excitation 337 nm, emission 454 nm) & 1 min & solutions were used after 90 min, storage max. 2 days, at 4~$^\circ$C \\ \hline
+	Asadpoor et al.\cite{Asadpoor2014} & HPLC & OPA/MPA in methanol & 9.5 & spectrofluorimetry (excitation 330 nm, emission 450 nm) & 1 min &  \\ \hline
+	Dai et al.\cite{Dai2014} & HPLC & 0.39 \% (w/v) OPA, 0.43 \% (w/v) 2-ME & 9.5 & spectrofluorimetry (excitation 340 nm, emission 455 nm) & 1 min & storage at 4~$^\circ$C, solutions used max. 36 hod \\ \hline
+	Tian et al.\cite{Tian2014} & CE & 0.13 \% (w/v) OPA, 2.23 \% (w/v) 2-ME & 10 & spectrophotometry (340 nm) &  &  \\ \hline
+	Roth\cite{Roth1971} & - & 0.016 \% (w/v) OPA, 0.009 \% (w/v) 2-ME & 9.5 & spectrofluorimetry (excitation 340 nm, emission 455 nm) & 5 -- 25 min & stable 1 day at room temperature \\ \hline
+	Körös\cite{Koros2008} & HPLC & 0.11 \% (w/v) OPA, 0.50 \% (w/v) ET &  & spectrophotometry, spectrofluorimetry & 2 min &  \\ \hline
+	Boyd et al.\cite{Boyd2000} & capillary LC & 40 mM OPA, 50 mM 2-MPT & 10.6 $\pm$ 0.1 & electrochemically & 2 min & if precipitates were present, a new solution was prepared \\ \hline
+	Sandlin et al.\cite{Sandlin2005} & CE & 10 mM OPA, 40 mM 2-ME & 9.5 & LIF & $<$2 min &  \\ \hline
+	Cellar et al.\cite{Cellar2005} & CE & 10 mM OPA, 40 mM 2-ME & 9.5 & LIF & 1 min &  \\ \hline
+	Pereira et al.\cite{Pereira2008} & RP-HPLC & 250 mg dissolved in 1.5 ml of ethanol, borate buffer added to total volume 10 ml, 200 ul of 2-ME added & 10.5 & spectrofluorimetry (excitation 335 nm, emission 440 nm) & 3 min & used after 90 min, storage in dark glass bottles at 4~$^\circ$C, max. 9 days \\ \hline
+	Ravindran et al.\cite{Ravindran2005} & IEC & 1.2 g OPA in 15-20 ml of ethanol, 2.4 ml 3-MPA and 10 ml of Brij-35 solution added, then diluted to 1 l with a buffer &  & spectrofluorimetry &  &  \\ \hline
+	Ptolemy et al.\cite{Ptolemy2006} & CE & 100 mM OPA & 9.5 & spectrophotometry (340 nm) &  &  \\ 
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[H]
+  \begin{center}
+	\caption{The composition of the derivatization agents with NDA.}
+  \label{tab:table2}
+	\renewcommand{\arraystretch}{1.4}
+	\scriptsize
+\begin{tabular}{| >{\centering\arraybackslash} m{1.3cm} | >{\centering\arraybackslash} m{1.5cm} | >{\centering\arraybackslash} m{3cm} | >{\centering\arraybackslash} m{0.7cm} | >{\centering\arraybackslash} m{3.5cm} | >{\centering\arraybackslash} m{1.3cm} | >{\centering\arraybackslash} m{3cm} |}
+\hline
+	\textbf{literature} & \textbf{separation method} & \textbf{composition of derivatization solution} & \textbf{pH} & \textbf{detection} & \textbf{reaction time} & \textbf{notes}  \\ \hline \hline
+	Nandi et al.\cite{Nandi2013} & CE & 7 mM NDA, 10 mM NaCN & 9.2 & LIF & 3 - 15 min &  \\ \hline
+	Chang et al.\cite{Chang2011} & CE & NDA/CN$^{-}$ & 9.5 & LEDIF &  &   \\ \hline
+	Kao et al.\cite{Kao2010} & CE & 0.3 mM NDA, 0.3 mM NaCN & 9 & LEDIF & 40 min &    \\ \hline
+	Chang et al.\cite{Chang2006} & CE & 0.1 mM NDA, 0.1 mM NaCN & 9.3 & LEDIF & 30 min & storage at 4~$^\circ$C for one week  \\ \hline
+	Yassine et al.\cite{Yassine2008} & CE & 5.6 mM NDA, 2.8 mM NaCN & 9.2 & LIF & <30 s & storage at 4~$^\circ$C for one week   \\ \hline
+	Huynh et al.\cite{Huynh2006} & CE & 0.6 mM NDA, 1.2 mM 2-ME & 9.2 & LIF & <30 s &   \\ \hline
+	Wu et al.\cite{Wu2004} & CE (MEKC) & 1 mM NDA, 0.1 mM KCN & 9.2 & LIF & 15-30 min &   \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\restoregeometry

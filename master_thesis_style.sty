@@ -1,0 +1,92 @@
+% modified from the original provided by VSCHT in 2012
+% by Kristyna Kantnerova on 18-May-2022
+% https://orcid.org/0000-0001-6259-3225
+% https://github.com/SabrielxD
+
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{master_thesis_style}[2022/05/18 Master thesis VSCHT - UCT Prague]
+
+\usepackage[version=3]{mhchem} % commands for typesetting chemical molecular formulae and equations
+
+\usepackage[colorlinks=true, linkcolor=black, citecolor=black, filecolor=black, urlcolor=black]{hyperref} % to handle cross-referencing commands
+
+\usepackage{url} % links to a web address or email
+\usepackage{lipsum} % to insert dummy text
+\usepackage{setspace} % to set space between lines
+\onehalfspace
+
+\usepackage{color} % color management
+
+\usepackage[sort&compress,numbers,super]{natbib} % bibliography management
+\usepackage[super=true,usetitle=true]{achemso} %literatura jako horni indexy; the official macros (achemso.cls) and BibTEX styles (achemso.bst and biochem.bst) for submission to the journals of the American Chemical Society
+%\bibpunct{[}{]}{,}{n}{}{;} %vypne literaturu ve formatu [1]
+\def\citenumfont{\textrm}
+\renewcommand\bibnumfmt[1]{#1. }
+
+\hbadness=1350 % specifies a threshold badness value to be used when classifying a horizontal box as underfull or overfull
+\usepackage{textcomp,gensymb} % generic symbols for both text and math mode
+\usepackage{epstopdf} % a Perl script that converts an EPS file to an 'encapsulated' PDF file
+\usepackage{booktabs} % enhances the quality of tables
+\usepackage{multirow} % creates tabular cells spanning multiple rows
+\usepackage{graphicx} % builds upon the graphics package, providing a key-value interface for optional arguments to the \includegraphics command
+\usepackage{siunitx} % a unified method for LATEX users to typeset numbers and units correctly and easily
+% define a new unit
+\DeclareSIUnit{\molar}{M}
+\usepackage{amsmath} % mathematical features
+
+\usepackage[bf]{caption} % customises the captions in floating environments like figure and table; bf - in bold
+\captionsetup{width=0.9\textwidth}
+\captionsetup{font=small}
+\usepackage[defaultlines=4,all]{nowidow} % manages widow lines (A widow occurs when the last line of a paragraph is not able to fit at the bottom of a page or column.)
+\usepackage{lscape} % places selected parts of a document in landscape
+\usepackage{pdflscape} % makes landscape pages display as landscape
+\usepackage{longtable} % allows writing tables that continue to the next page
+\usepackage{xspace} % a command that looks at what comes after it in the command stream, and decides whether to insert a space to replace one “eaten” by the TEX command decoder
+\usepackage{afterpage} % execute command after the next page break
+\usepackage{acronym} % ensures that all acronyms used in the text are spelled out in full at least once
+\usepackage{geometry} % modifying page margins
+\usepackage[nottoc]{tocbibind} % automatically adds the bibliography and/or the index and/or the contents, etc., to the Table of Contents listing
+	\setlofname{LIST OF FIGURES} % setting the displayed name of the list of figures
+	\setlotname{LIST OF TABLES} % setting the displayed name of the list of tables
+	\settocbibname{BIBLIOGRAPHY} % setting the displayed name of bibliography
+	
+% having list of abbreviations sorted alphabetically
+\usepackage{datatool}% http://ctan.org/pkg/datatool
+\newcommand{\sortitem}[1]{%
+  \DTLnewrow{list}% Create a new entry
+  \DTLnewdbentry{list}{description}{#1}% Add entry as description
+}
+\newenvironment{sortedlist}{%
+  \DTLifdbexists{list}{\DTLcleardb{list}}{\DTLnewdb{list}}% Create new/discard old list
+}{%
+  \DTLsort{description}{list}% Sort list
+  \begin{itemize}%
+    \DTLforeach*{list}{\theDesc=description}{%
+      \item \theDesc}% Print each item
+  \end{itemize}%
+}
+
+% for Czech symbols
+\usepackage[utf8]{inputenc}
+\usepackage[OT1]{fontenc}
+\usepackage[czech,english]{babel}
+
+% using booktabs with the Czech babel
+\begingroup
+    \makeatletter
+    \catcode`\-=\active
+    \AtBeginDocument{
+    \def\@@@cmidrule[#1-#2]#3#4{\global\@cmidla#1\relax
+        \global\advance\@cmidla\m@ne
+        \ifnum\@cmidla>0\global\let\@gtempa\@cmidrulea\else
+        \global\let\@gtempa\@cmidruleb\fi
+        \global\@cmidlb#2\relax
+        \global\advance\@cmidlb-\@cmidla
+        \global\@thisrulewidth=#3
+        \@setrulekerning{#4}
+        \ifnum\@lastruleclass=\z@\vskip \aboverulesep\fi
+        \ifnum0=`{\fi}\@gtempa
+        \noalign{\ifnum0=`}\fi\futurenonspacelet\@tempa\@xcmidrule}
+    }
+\endgroup

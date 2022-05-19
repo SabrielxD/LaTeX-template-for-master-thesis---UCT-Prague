@@ -1,0 +1,404 @@
+\subsection{Amino acid analysis}
+\label{aaa}
+Amino acids belong amongst the most important natural compounds. They take part in many physiological processes, either in their free form or as part of peptides and proteins.\cite{Asadpoor2014} Proteins in living organisms consist of 19 amino acids (alanine, arginine, asparagine, aspartic acid, cysteine, glutamic acid, glutamine, glycine, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, serine, tyrosine, threonine, tryptophan, valine) and of one imino acid (proline). These amino acids are called proteinogenic amino acids and they are $\alpha$-amino acids (the amino group is on the $\alpha$-carbon). Rarely two more amino acids are present in organisms - selenocysteine and pyrolysine.\cite{Peace2005} Chemical structures of proteinogenic amino acids are in fig. \ref{fig:aminoacids}. 
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=12.5cm]{aminoacids.png}
+ \caption{Proteinogenic amino acids.}
+ \label{fig:aminoacids}
+\end{figure}
+
+Amino acids divide into several groups by acid-base character of the side chain:
+\begin{itemize}
+	\item neutral - the side chain comprises hydrocarbon chain, aromatic system, hydroxy group OH or thiol group SH
+	\item acid (aspartic and glutamic acid) - the side chain comprises another carboxyl group
+	\item basic (lysine, arginine, histidine) - the side chain comprises another amino group
+\end{itemize}
+
+Next, amino acids can also be divided according to the polarity of side chains (polar uncharged, positively or negatively charged, hydrophobic), see fig. \ref{fig:aminoacids}.
+
+At least nine amino acids (histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine) are essential for humans. Human body isn't able to synthesize them from other metabolites therefore they have to be part of human diet in sufficient quantity.
+
+Arginine, cysteine, glutamine, glycine, proline and tyrosine are considered conditionally essential amino acids. Their biosynthesis in human body can be limited by some conditions, e.g. preterm infants don't have sufficiently developed metabolism and they are not able to synthesize cysteine.
+
+Amino acids are used for synthesis of proteins and other nitrogenous compounds (hormones, neurotransmitters) in human body. Amino acids are lost from a body due to catabolism, secretion and excretion therefore essential and conditionally essential amino acids have to be replenished constantly into organism.
+
+In human body besides proteinogenic amino acids there are also so called nonproteinogenic amino acids. These amino acids can have an amino group on other than the $\alpha$-carbon.\cite{McMurry} For example in human brain there is $\gamma$-a\-mi\-no\-bu\-ty\-ric acid (GABA) which acts as an important neurotransmitter. 
+
+Disorders of the metabolism of amino acids are called aminoacidopathies.\cite{Veledo2006} Some of these disorders can have serious consequences for organism development if they appear during the neonatal period. For example phenylketonuria is a disorder in metabolism of phenylalanine caused by the lack of enzyme phenylalanine-4-hydroxylase. The consequence is an increased level of free phenylalanine in plasma which can lead to mental retardation and to organ damage.
+
+Propionic acidemia belongs to the most frequent human inborn disorders in metabolism of organic acids. It is caused by the lack of enzyme propionyl-CoA-carboxylase which can cause development slowdown. This disorder can be detected by an increased level of free glycine.
+
+Next disorder are so called tyrosinemias when in body fluids there is an increased level of free tyrosine. The largest increase in the amount of free tyrosine is during tyrosinemia type II caused by low activity of enzyme tyrosine transaminase. The consequences are symptomatic keratosis, corneal ulcers and keratotic lesions of hands and feet.
+
+Early detection of disorder of metabolism of amino acids in newborns can help prevent irreversible damages or it can help mitigate them.
+
+Amino acids in food can also be present either in free form or in proteins or some polymers.\cite{Peace2005} Free amino acids in food and drinks influence aroma, taste and appearance. Determining the content of free amino acids can be used e.g. for monitoring of cheese ripening. 
+
+Determining the content of amino acids has to include both qualification and quantification. From these reasons new methods are developed which are able to analyze a large amount of amino acids in small sample volume in a short time.
+
+\subsubsection{Protein hydrolysis}
+\label{proteinhydrolysis}
+
+Free amino acids can be analyzed right after their extraction from matrix.\cite{Peace2005} For determination of amino acids bound in peptides and proteins hydrolysis of peptide bond has to be performed before the actual analysis.
+
+Hydrolysis conditions differ depending on the type of sample. For example for hydrolysis of food samples 6M hydrochloric acid is used under vaccuum in sealed equipment. Whole system is heated to 110--165~$^\circ$C for 1 to 70 hours. After hydrolysis hydrochloric acid is removed by rotary evaporatoring. 
+
+The hydrolysis time depends on used temperature, on the primary structure of amino acids, on stability of fuctional groups, on strength of peptide bond and on sample matrix. According to the official AOAC (Association of Analytical Communities) method the hydrolysis is recommended for 24 hours at 110~$^\circ$C in 6M HCl as a compromise between hydrolysis effect and stability of amino acids.\cite{Peace2005,Dai2014} At higher temperatures and shorter times corrections on content of some amino acids has to be applied (e.g. on content of valine, isoleucine, threonine, serine).
+
+Microwave radiation is used also for protein hydrolysis. High temperatures are reached in short times (up to 180~$^\circ$C) and hydrolysis is finished after 5 minutes. Some peptide bonds need to be hydrolyzed by microwave radiation up to 60 minutes, during this process there is a loss of some labile amino acids. Microwave hydrolysis is performed at acid or basic conditions in special equipment that is resistant to high temperature and pressure.
+
+Proteinogenic amino acids vary in stability against hydrolysis. Glycine, alanine, leucine, lysine, aspartic and glutamic acid are among the most stable ones. Asparagine and glutamine are deamidated to respective acids during hydrolysis. Determined content of aspartic and glutamic acid in a sample therefore includes also content of their amides. Cysteine is oxidized during hydrolysis to cysteic acid, methionine is oxidized to methionine-sulfoxide and methionine-sulfone. Serine, threonine and tyrosine partially degrade, tryptophan degrades completely during acid hydrolysis. 
+
+If cystein, its dimer cystine or methionine are subject to analysis, before actual hydrolysis we have to perform complete oxidation of these amino acids using performic acid. By that tyrosine and tryptophan are also destroyed. For removing performic acid before hydrolysis, sodium bisulphite or hydrobromic acid are added to the sample.
+
+If tryptophan is subject to analysis, sample hydrolysis is performed under basic conditions (NaOH, KOH, LiOH, Ba(OH)$_2$) at temperature 105--110~$^\circ$C for 20--24 hours. By that some amino acids are destroyed also - arginine, asparagine, cysteine, cystine, glutamine, methionine, serine and threonine.
+
+Due to complications with the loss of some amino acids during acid or basic hydrolysis, hydrolysis using enzymes from porcine stomach or small intestine is at some cases used.\cite{Dai2014}
+
+
+\subsubsection{Comparison of pre-column, in-column and post-column derivatization}
+\label{comparison}
+
+Amino acids can be detected by UV spectroscopy at wavelengths 200--210 nm (absorption maximum of carboxyl group COOH).\cite{Rigas2012} This method is direct, nondestructive and it detects primary and secondary amino acids at one time, its sensitivity and selectivity is however very low. Aromatic amino acids can be detected in region between 250 and 280 nm, in more complex matrix this detection is not possible. Amino acids can't be detected even by fluorescence methods.
+
+The solution to this problem is a derivatization reaction during which amino group (both primary and secondary) selectively reacts with a derivatization agent. By this reaction a compound is formed which can be detected with low limit of detection thanks to its properties. Chapter \ref{derivagents} deals with individual detection methods.
+
+Amino acid derivatization can be performed in three ways - before separation, so called pre-column derivatization, directly during separation, so called on-column derivatization, or after separation of amino acids and before their detection, so called post-column derivatization. Each of them has its own advantages and disadvantages.
+
+If pre-column derivatization is used, a mixture of amino acids reacts with a derivatization agent. After some specified time the derivates are applied on column with a nonpolar sorbent and separation is carried out. Detection is made by UV/Vis spectroscopy, fluorescence or electrochemical detectors. Disadvantages of pre-column derivatization include:
+
+\begin{itemize}
+	\item{derivatization takes place simultaneously with all present amino acids, reaction can have different conversion with different amino acids, quantification of derivatives does not correlate with the actual amount of amino acids in a solution}
+	\item{derivatives are often unstable}
+	\item{interference from other components of the derivatization agent}
+\end{itemize}
+
+If post-column derivatization is used, a mixture of amino acids is separated using some separation method, then derivatization is carried out and derivatives are detected by UV/Vis spectroscopy or fluorescence. Advantages of post-column derivatization include:
+
+\begin{itemize}
+	\item{methods of post-column derivatization are easy to perform with great quantification}
+	\item{simple automation}
+	\item{derivatization takes place only with an eluted amino acid, there are no interferences with other matrix components}
+\end{itemize}
+
+\noindent
+Disadvantages of post-column derivatization include:
+
+\begin{itemize}
+	\item{solvent of the mobile phase has to be miscible with the derivatization agent}
+	\item{high comsuption of the derivatization agent}
+	\item{unreacted derivatization agent shouldn't have response in the same region as derivatives with amino acids}
+	\item{reagent excess in the system can cause higher background signal which can lead to lower analyte signal}
+\end{itemize}
+
+In general pre-column methods are used in laboratories with fundamental and applied research where hydrolyzates are often used. Post-column methods are used in laboratories ensuring quality where huge amounts of samples are analyzed and where the need for sample preparation before analysis is very small.
+
+On-column derivatization is used mostly in capillary electrophoresis.\cite{Veledo2005} The advantage is small consumption of reagents and samples, short reaction time and possibility of automation. Also no special equipment is needed.
+
+Several modes of on-column derivatization have been published. Zone-passing derivatization is based on different electrophoretic mobilities of samples and reagents. It is necessary to apply first a solution with lower electrophoretic mobility. After applying solutions on column separating voltage is applied. The solution with higher electrophoretic mobility starts to pass through the zone of the solution with lower electrophoretic mobility and by that the derivatization reaction proceeds.
+
+When throughout-capillary derivatization is used, the capillary is filled with a buffer in which a derivatization agent is dissolved. Sample components therefore react with the derivatization agent during separation.
+
+In case of inlet derivatization, short zones of a sample and a reagent are applied at the capillary inlet, low voltage is applied for some specified time and solutions react before application of separation voltage. Zones of a sample (S) and a reagent (R) are introduced either in tandem (a) or in "sandwich" mode (b), as in fig. \ref{fig:tandemsandwich}.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=12.5cm]{CE_on-capillary_tandemsandwich.png}
+ \caption{The introduction of zones of a sample (S) and a reagent (R) into a capillary.\cite{Oguri2005}}
+ \label{fig:tandemsandwich}
+\end{figure}
+
+
+\subsection{Historical window}
+\label{window}
+
+The first used derivatization agent for determination of amino acids was ninhydrin.\cite{Friedman2004} In 1910 Siegfried Ruhemann discovered that after heating of a solution of ninhydrin with primary amines a purple compound is formed which was later named as Ruhemann's purple.
+
+In 1958 the first automatic chromatograph was made by Sanford Moore and William H. Stein. It was capable of both qualitative and quantitative analysis of amino acids based on ion-exchange chromatography (IEC).\cite{Csapo2008} In this method post-column derivatization with ninhydrin was used. Moore and Stein received in 1972 the Nobel prize for this work. Since then the method went through many improvements (sample preparation, protein hydrolysis, determination of unstable amino acids, higher sensitivity, other derivatization agent), the actual principle of the method remains unchanged. For example in 1990 roughly 94 \% laboratories doing amino acid analysis used the technique of ion-exchange chromatography with ninhydrin detection. Compared to the original method, the analysis time is now shortened from one day to less than five minutes.\cite{Molnar_preface}
+
+In last decades, high-performance liquid chromatography (HPLC) has become more popular,\cite{Csapo2008} in most cases reversed-phase HPLC with pre-column derivatization is used.\cite{Molnar_preface} Samples determined by this technique have to be adequately pure otherwise the column is destroyed. Ion-exchange chromatography is not so much sensitive to sample impurities. Uncharged contaminants pass through the system quickly and they don't interfere during post-column derivatization and during detection.
+
+Next capillary electrophoresis (CE) is also used for analysis of amino acids.\cite{Molnar_preface} There has been a big development in the field of columns, detectors, derivatization techniques, equipment and data analysis which leads to shortening of the total time required for determination and also to cost savings.
+
+\subsection{Derivatization agents}
+\label{derivagents}
+
+\subsubsection{Ninhydrin}
+\label{ninhydrin}
+
+Ninhydrin (structure in fig. \ref{fig:ninhydrin}) is used for more than one hundred years for determination of primary and secondary amino groups, guanidine, amide and thiol groups and also cyanide ions.\cite{Friedman2004}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=4cm]{ninhydrin.png}
+ \caption{Ninhydrin.}
+ \label{fig:ninhydrin}
+\end{figure}
+
+Derivatization reaction is usually performed at slightly acid pH (5.5) and at higher temperature. The reaction product is a soluble chromophore. This chromophore is the same for all primary amines that react with ninhydrin - amines, amino acids, peptides, proteins and ammonia. The chromophore is not chemically bound to the determined protein or to other insoluble material therefore it is still present in the solution after filtration of the substrate.
+
+Friedman\cite{Friedman2004} studied in detail the mechanism of reaction of ninhydrin with $\alpha$-amino acids at 30 and 100~$^\circ$C and he observed dependence on basicity and steric vicinity of amino group (the mechanism is in fig. \ref{fig:ninhydrin_mechanismusAA}) As the rate-determining step the replacing of OH group in ninhydrin by unprotonated amino group was determined. This step is affected by steric accessibility of the amino group and by the ratio of protonated and unprotonated amino group in the solution. It was found out that the reaction involves two molecules of ninhydrin and one molecule of amino acid. Decarboxylation as a monomolecular reaction can't be the rate-determining step because it is not influenced by steric effects. Reaction products are carbon dioxide CO$_2$, aldehyde RCHO and Ruhemann's purple.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=14cm]{ninhydrin_mechanismusAA.png}
+ \caption{The mechanism of the reaction of ninhydrin with $\alpha$-amino acids and with primary amines.\cite{Friedman2004}}
+ \label{fig:ninhydrin_mechanismusAA}
+\end{figure}
+
+Amino acids with another nucleophile group (-NH$_2$, -SH) apart from the $\alpha$-amino group have very low yields of Ruhemann's purple. In case of lysine it is caused by cyclization of the intermediate to piperidine (fig. \ref{fig:ninhydrin_mechanismusLysCys}, product A). The second amino group of lysine does not react with ninhydrin. Lysine gives colored products comparable to aliphatic amino acids if one of its amino groups is blocked by acetylation.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{ninhydrin_mechanismusLysCys.png}
+ \caption{The mechanism of the reaction of ninhydrin with amino acids bearing more than one nucleophile group (e.g. lysine).\cite{Friedman2004}}
+ \label{fig:ninhydrin_mechanismusLysCys}
+\end{figure}
+
+In fig. \ref{fig:ninhydrin_produktCys} the product of reaction of ninhydrin with cystein is shown (product B from fig. \ref{fig:ninhydrin_mechanismusLysCys}). Thiol and amino group form with ninhydrin a spirane derivative.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=4cm]{ninhydrin_produktCys.png}
+ \caption{The product of reaction of ninhydrin with cysteine.\cite{Friedman2004}}
+ \label{fig:ninhydrin_produktCys}
+\end{figure}
+
+The presence of Ruhemann's purple is detected by UV/Vis spectrophotometry.\cite{Friedman2004} Spectra are strongly influenced by used solvent. In non-polar aprotic solvents (e.g. DMSO, DMF) the compound absorbs most around 605 nm, in non-polar aprotic solvents which can participate in acid-base equilibria (e.g. pyridine) it absorbs most around 550 nm, and in non-aqueous protic solvents (e.g. formamide) around 575 nm.
+
+Proline as imino acid does not react with ninhydrin according to reaction scheme in fig. \ref{fig:ninhydrin_mechanismusAA}. The determined products of reaction of proline with ninhydrin are in fig. \ref{fig:ninhydrin_produktPro}. The solution is after reaction yellow.
+
+\newpage
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=8cm]{ninhydrin_produktPro.png}
+ \caption{The product of reaction of ninhydrin with proline.\cite{Friedman2004}}
+ \label{fig:ninhydrin_produktPro}
+\end{figure}
+
+\subsubsection{Orthophthalaldehyde (OPA)}
+
+Reactivity of ortho\-phthal\-al\-de\-hy\-de (OPA, ben\-ze\-ne-1,2-di\-carb\-ox\-al\-de\-hy\-de) with a\-mi\-no acids was published in 1971 by Marc Roth.\cite{Roth1971} Reaction of OPA with amino acids was performed in basic solution in the presence of another nucleophile - 2-mer\-cap\-to\-eth\-an\-ol. By this reaction strongly fluorescent compounds are formed. The advantage, compared to the reaction with ninhydrin, is that the reaction mixture does not have to be heated and fluorescence is detectable after 5 minutes from mixing reagents. The determination with OPA is more sensitive than with ninhydrin because it is a fluorometric determination which generally gives limits of detection lower by several orders of magnitude than spectrophotometric determinations. The disadvantage is that imino acids (e.g. proline) and cysteine don't react with OPA and therefore they can't be detected by this derivatization agent. 
+
+The highest yields of fluorescence are obtained when a strong reducing agent is added to the reaction mixture of OPA and amino acids, e.g. 2-mer\-cap\-to\-eth\-an\-ol. Also other thiol compounds have been tested.\cite{Zuman2005} 2-mer\-cap\-to\-eth\-an\-ol, ethanethiol and 3-mercaptopropionic acid are used mostly. The ratio OPA/thiol is in most cases 1/3 for 3-mercaptopropionic acid (MPA), N-acetylcysteine (NAC) and 2-mercaptoethanol (MCE), or 1/10 for ethanethiol (ET). OPA is used in excess (20-120fold) against amino acids. The derivatization solution is kept in a refrigerator at 4~$^\circ$C and it is used for several days.\cite{Molnar2011} Fluorescence is measured usually at these wavelengths: $\lambda_{ex} = 340$~nm and $\lambda_{em} =455$~nm.\cite{Roth1971} The summary about the derivatization with OPA in various publications is in table \ref{tab:table1} (see \ref{AppendixA}).
+
+Intensity of fluorescence is influenced also by the order of mixing reactants. If first OPA is mixed with 2-mercaptoethanol and then a sample with amino acids is added to the solution, fluorescence is higher than of OPA is first mixed with amino acids and after that 2-mercaptoethanol is added. This dependence is caused by the fact that OPA alone also reacts with amino acids but the products are not fluorescent compounds. 
+
+The fluorescence reaction is also dependent on pH. Aliphatic amino acids and amino acids with a second carboxyl group, with thiol or hydroxy group give the highest fluorescence yields between pH 8.0 and 11.0. Lysine gives the highest fluorescence in slightly acidic pH, between 6.0 and 7.0. Intensity of fluorescence is influenced by the type of buffer, too. In borate buffer at pH 8.0 fluorescence was higher than in phosphate buffer at same pH.
+
+Intensity of fluorescence reaches its maximum about 5 minutes after mixing reagents. After 25 minutes significant decline in fluorescence occurs caused by unstability of formed fluorescent compounds. 
+
+The structure of these fluorescent compounds was determined in 1970's as an isoindole derivative (see fig. \ref{fig:isoindol}). This compound is unstable and it undergoes further reactions.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{isoindol.png}
+  \caption{The reaction of OPA with a thiol and an amine, an isoindole derivative is formed (a fluorescent compound).\cite{Zuman2005}}
+ \label{fig:isoindol}
+\end{figure}
+
+The reaction mechanism is still unknown. The conditions for analytical determination of amino acids have been obtained only empirically. There have been many attempts to clarify the reaction mechanism, none of them gives satisfactory explanations about the influence of some factors on the reaction course (e.g. the order of mixing the reactants) given the complexity of the entire system.
+
+The main complication at defining the reaction mechanism is hydration of OPA in aqueous solutions. Literature indicates that OPA is in an aqueous solution present in three forms - unhydrated form I, monohydrated acyclic form II and cyclic hemiacetal form III (see fig. \ref{fig:hydratace}).\cite{Zuman2005}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{hydratace.png}
+ \caption{Hydration of OPA in aqueous solutions.\cite{Zuman2005}}
+ \label{fig:hydratace}
+\end{figure}
+
+One of suggested reaction mechanisms of the reaction of OPA with ammonia and with glycine is in fig. \ref{fig:navrhmechZuman_amoniak} and \ref{fig:navrhmechZuman_glycin}.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{navrhmechZuman_amoniak.png}
+ \caption{The suggestion for mechanism of reaction of OPA with ammonia.\cite{Zuman2004}}
+ \label{fig:navrhmechZuman_amoniak}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{navrhmechZuman_glycin.png}
+ \caption{The suggestion for mechanism of reaction of OPA with glycine.\cite{Zuman2004}}
+ \label{fig:navrhmechZuman_glycin}
+\end{figure}
+
+\subsubsection{Naphthalene-2,3-dicarboxaldehyde (NDA)}
+
+In last years naphthalene-2,3-dicarboxaldehyde (NDA, sometimes inaccurately called naphthalene-1,2-dicarboxaldehyde) is used as an alternative to OPA.\cite{Zuman2005,Zuman2009} Instead of thiol ions, cyanide ions are used (the reaction scheme in fig. \ref{fig:NDA_reakce}). The summary about the derivatization with NDA in various publications is in table %\ref{tab:tabulka2} (see \ref{AppendixA}).
+The formed isoindole derivatives are more stable than derivatives formed in the reaction with OPA and they give higher fluorescence intensity. The principle of the reactions is the same as with OPA but NDA is less hydrated in aqueous solutions. The price of this reagent is however much higher than the price of OPA.
+ 
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=13cm]{NDA_reakce.png}
+ \caption{The reaction of NDA with an amine and cyanide ions.}
+ \label{fig:NDA_reakce}
+\end{figure}
+
+\subsubsection{3-(2-furoyl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (FQCA)}
+
+Derivatives formed in reactions with OPA or NDA do not have excitation maxima near lines of lasers used for laser-induced fluorescence (He/Cd - 442 nm, Ar - 488 nm).\cite{Beale1990} 3-(2-furoyl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (FQ, FQCA) and three following derivatization agents (CBQCA, Br-BQCA, Cl-BQCA) have been developed in various research groups directly for detection by this technique. FQCA is also used in combination with another nucleophile compound, mostly with potassium cyanide KCN.\cite{Veledo2005} The excitation maximum of FQCA is at 480 nm, close to the line of argon laser. The structure of FQCA and the reaction scheme is in fig. \ref{fig:FQCA_mech}.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=11cm]{FQCA_mech.png}
+ \caption{The scheme of reaction of FQCA with cyanide ions and an amine.\cite{Beale1990}}
+ \label{fig:FQCA_mech}
+\end{figure}
+
+\subsubsection{3-(4-carboxybenzoyl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (CBQCA)}
+
+The structure of 3-(4-carboxybenzoyl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (CBQCA) and the reaction scheme is in fig. \ref{fig:CBQCA_mech}. The excitation maximum of CQBCA is at 450 nm, close to the line of helium-cadmium laser. Using this derivatization agent quantities down to $10^{-18}$~mol can be determined.\cite{Liu1991}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=11cm]{CBQCA_mech.png}
+ \caption{The scheme of reaction of CBQCA with cyanide ions and an amine.\cite{Liu1991}}
+ \label{fig:CBQCA_mech}
+\end{figure}
+
+\subsubsection{3-(4-bro\-mo\-ben\-zo\-yl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (Br-BQCA)}
+
+The structure of 3-(4-bro\-mo\-ben\-zo\-yl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (Br-BQCA) and the reaction scheme is in fig. \ref{fig:Br-BQCA_mech}. The excitation maximum of Br-BQCA is at 480 nm, close to the line of argon laser.\cite{Zhang2009}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=11cm]{Br-BQCA_mech.png}
+ \caption{The scheme of reaction of Br-BQCA with cyanide ions and an amine.\cite{Zhang2009}}
+ \label{fig:Br-BQCA_mech}
+\end{figure}
+
+\subsubsection{3-(4-chlo\-ro\-ben\-zo\-yl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (Cl-BQCA)}
+
+The structure of 3-(4-chlo\-ro\-ben\-zo\-yl)chi\-no\-li\-ne-2-carb\-ox\-al\-de\-hy\-de (Cl-BQCA) is in fig. \ref{fig:Cl-BQCA}. The excitation maximum of Cl-BQCA is close to the line of argon laser.\cite{Zhang2011}
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=4cm]{Cl-BQCA.png}
+ \caption{The structure of Cl-BQCA.}
+ \label{fig:Cl-BQCA}
+\end{figure}
+
+\newpage
+\subsection{Used techniques and specific utilization}
+
+\subsubsection{Ion-exchange chromatography (IEC)}
+
+Ion-exchange chromatography (IEC) was the first method that was used for amino acid analysis.\cite{Csapo2008} It comprised a combination of IEC with post-column derivatization with ninhydrin. The method was later automated and it is still used. By this method up to 38 amino acids can be separated during 2 hours.\cite{Kaspar2009}
+
+Among disadvantages of IEC with post-column derivatization with ninhydrin are time consumption, unstability of derivatization solution and interference of other sample components.
+
+The sample for analysis has to be as pure as possible so that other sample components do not destroy determined amino acids during analysis.\cite{Csapo2008} The sample has to be prepared before analysis - for analysis of free amino acids peptides, proteins and other components that could interfere with the derivatization agent have to be removed; for analysis of total amino acid content, first hydrolysis is performed using a method from chapter \ref{proteinhydrolysis}.
+
+Amino acids are separated by IEC usually in sodium or lithium buffer. During separation the buffer composition changes. Salts used for buffer preparation have to be as pure as possible. They are dissolved in deionized or in freshly distilled water. Into buffers some other substances are added, for lowering the background (e.g. thioglycole which inhibits oxidation of methionine), for better separation of amino acids (organic solvents - ethanol, propanol) or to inhibit the growth of microorganisms (0.1\% phenol, 0.01\% pentachlorophenol, 0.01\% caprylic acid).
+
+Buffer pH has great influence on separation of amino acids due to acid-base properties of carboxyl, thiol and amino groups. If buffer pH is too high, amino acids elute sooner and the peaks are higher. If buffer pH is too low, amino acids elute later. The amino acid that is the most sensitive on separation conditions (temperature, pH, ionic strength) is cystine.
+
+Temperature is also important during separation -- it changes pH of a solution and it influences the affinity of amino acids to the stationary phase (ion-exchange resin). Separation of amino acids is usually performed with temperature gradient for better separation of some amino acids. For example for separation of aspartic and glutamic acid, asparagine, glutamine, hydroxyproline, threonine and serine, the optimal temperature is 37--38~$^\circ$C.
+
+A copolymer of styrene and divinylbenzene (8 \%) is used as the stationary phase. Benzene rings are sulfonated, sulfonate groups work as cation exchangers. Divinylbenzene connects single chains together and by that it makes the structure of the material which is usually in the shape of beads (for the structure see fig. \ref{fig:IEC_SF}). Its concentration in the polymer influences rigidity and porosity. The particle size is reduced with increasing divinylbenzene concentration. The smaller the particles, the higher the rate of separation. The chromatographic column can be therefore shorter and by that the time necessary for the separation is shorter. Nowadays the columns with the diameter of 1--2 mm (5--9 mm formerly) are used for analytical determination, preparative columns have bigger diameter.
+
+\begin{figure}[!ht]
+  \centering
+ \includegraphics[width=11cm]{IEC_SF.png}
+ \caption{The structure of a copolymer used in IEC for separation of amino acids.\cite{Csapo2008}}
+ \label{fig:IEC_SF}
+\end{figure}
+
+After exiting the column, the eluate is mixed with ninhydrin and it continues to a part where the solution is heated (e.g. a teflon coil submerged in a boiling water bath). In this part the derivatization reaction takes place and the coloured complex is made -- Ruhemann's purple. Then there is detection of the complex in flow spectrophotometer.
+
+Sun et al.\cite{Sun2006} tried to upgrade and reduce the price of the ninhydrin method. In their work they used sodium hydroxide NaOH instead of more expensive lithium hydroxide LiOH for preparation of solution system (sodium hydroxide/acetic acid). They also discovered that a buffer from sodium or lithium acetate is good enough for amino acid quantification instead of a system sodium hydroxide/acetic acid. Sodium acetate is more suitable from economic point of view. Their results showed that the reaction mixture needs to be heated for 10 minutes to obtain Ruhemann's purple before detection (instead of recommended 30 minutes).
+
+Cernei et al.\cite{Cernei2014} dealt with formation of a method for acquisition of amino acid profiles from urine samples of patients that were diagnosed with prostate carcinoma (totally 500 samples). The samples were collected for one year and they were stored at $-80~^\circ$C. The samples were hydrolyzed by an acid in a microwave reactor before the analysis. 500~$\mu$l of a sample was mixed with the same volume of hydrochloric acid (35\%) and the mixture was hydrolyzed for 105 minutes at 120~$^\circ$C and 25~bar. For separation, IEC with post-column derivatization by ninhydrin was used with detection in visible spectrum at 440 and 570~nm. So called buffer of sodium cycle (0.2~mol/l NaCl, 60~mmol/l C$_6$H$_8$O$_7$, 1.5~mmol/l Na$_3$N, 0.4~\% S(CH$_2$CH$_2$OH)$_2$) diluted with sodium hydroxide (0.6~mol/l) was used for separation. Separation was carried out in a glass column with inner diameter 3.7~mm and length 350~mm filled with strong cation exchanger (average particle size 12~$\mu$m, crosslinking 8~\%). Ninhydrin was dissolved in a mixture of methyl cellosolv (75~\% v/v) and acetate buffer (pH~5.5, 25~\% v/v). The ninhydrin solution was kept under inert nitrogen atmosphere and it was cooled. Next, a shortened analysis of nonproteinogenic amino acids sarcosine and taurine was developed. It was based on vaporization of a sample on nitrogen evaporator, dissolution in a buffer of sodium cycle and separation by IEC with ninhydrin detection. As it concerns nonproteinogenic amino acids, the sample does not have to be hydrolyzed which shortens the analysis time (from 120 minutes to 45).
+
+Limits of detection for determination of 17 essential amino acids and of two nonproteinogenic amino acids were in the range of tens to hundreds of $\mu$g/l (e.g. 43~$\mu$g/l for glycine, 50~$\mu$g/l for sarcosine).
+
+The advantage of this method is obtaining information from noninvasively taken urine samples. Patients with prostate carcinoma have higher levels of all amino acids in urine. It is probably related to higher level of proteins due to inflammations and other pathologies. Sarcosine is a marker of developing prostate carcinomas, taurine gives information about the level of oxidative stress in the body.
+
+Ravindran and Bryden\cite{Ravindran2005} designed a method for determination of tryptophan in proteins from food and feed. The sample is first hydrolyzed in an alkaline medium. The vessel with the sample has to be cleaned of oxygen by flushing with nitrogen. Oxygen might otherwise oxidize tryptophan during hydrolysis. Hydrolysis was performed in an autoclave for 15 hours at 120~$^\circ$C. Then there were cooling, neutralization by addition of HCl and separation and quantification of tryptophan using IEC. Separation was carried out in  a sodium cation exchanger column with diameter 6.0 mm and length 10 cm. The mobile phase was buffer from sodium citrate (pH~9.3) with flow rate 0.5 ml/min. The column was thermostated for 65~$^\circ$C. Then there is post-column derivatization by derivatization agent OPA/3-mercaptopropionic acid and spectrofluorimetric detection of derivatives.
+
+Kaspar et al.\cite{Kaspar2009} compared analysis of 20 amino acids in 144 urine samples. Analysis of amino acids is usually performed using IEC with post-column derivatization by ninhydrin and with UV detection. In this work the authors compared IEC with gas chromatography in combination with mass spectrometry (GC-MS) and with liquid chromatography in combination with tandem mass spectrometry (LC-MS/MS).
+
+The samples were gathered between years 1997 and 1999, after collecting boric acid was added as a conservant. The samples were kept in liquid nitrogen. Automatic amino acid analyzer Biochrom 30 was used (Laborservice Onken, Gründau, Germany). The conditions for sample preparation and for analysis were set according to standard protocol from the manufacturer of the analyzer (not given in the publication). The sample volume applied on the column was 200~$\mu$l, the analysis took 130 minutes. The limit of quantification was determined as 2--3~$\mu$mol/l.
+
+\subsubsection{Liquid chromatography (LC)}
+\label{LC}
+
+The number of theoretical plates in high-performance liquid chromatography (HPLC) is usually in the range from 5$\cdot$10$^4$ to 2$\cdot$10$^5$/m.\cite{Fukushima2003} Reversed-phase high-performance liquid chromatography (RP-HPLC) with pre-column derivatization is nowadays the most used technique for separation and determination of amino acids.\cite{Molnar_preface}
+
+In most cases, OPA in the presence of a thiol is used as derivatization agent.\cite{Kaspar2009} Derivatives are detected using spectrofluorimetry, nonfluorescent derivatives can be detected using amperometry. The derivatization time is usually from 1 to 10 minutes. The analysis time ranges from 13 minutes (separation of 23 analytes) to 95 minutes (separation of 38 analytes).
+
+As the stationary phase, reversed-phase C$_8$ or C$_{18}$ silica-based columns are used.\cite{Peace2005} Analysis using RP-HPLC is usually simpler, faster and it has higher sensitivity than analysis using IEC.\cite{Peace2005,Csapo2008}
+
+McKenzie et al.\cite{McKenzie2002} dealt with the development of a method for determination and quantification of neuroactive amino acids (acids aspartic, glutamic, $\gamma$-aminobutyric, citruline, arginine, glycine, taurine) and of neuroactive amines (noradrenaline, dopamine, serotonine) using automatic capillary liquid chromatography. In the method, the pre-column derivatization with OPA/2-methylpropane-2-thiol was used. The derivatization agent was kept at room temperature. The derivatization reaction took 5 minutes and it was performed in a borate buffer (pH~10.5). Capillary LC was carried out in a column - length 30--34 cm, diameter 50~$\mu$m, silica particles Alltime C$_8$ with diameter 5~$\mu$m. The mobile phase was a phosphate buffer (50~mM, pH~6.5). The mobile phase flow rate was 40~$\mu$l/min.
+
+Detection of the derivatives was performed electrochemically using cyclic voltammetry. The working electrode was carbon microelectrode, it was submerged into an electrochemical cell with 0.1M KCl (supporting electrolyte). The electrochemical cell was placed at the outlet of the capillary column. The argentochloride electrode was used as reference electrode. Cyclic voltammetry was measured from -0.5 to 1.1~V, the rate was 40~V/s. The limit of detection ranged between 0.3 and 4~nM in 250~nl of a sample.
+
+Meussen et al.\cite{Meussen2013} developed a method for fast and precise analysis of proteinogenic amino acids using ultra-performance liquid chromatography (UPLC). Before the analysis, a sample was hydrolyzed by 6M hydrochloric acid in an evacuated vessel at 110~$^\circ$C for 24~hours. After the hydrolysis, the sample was dried and dissolved. Automatic pre-column derivatization was used (derivatization agent OPA/ethanethiol in a borate buffer, pH~10.5). The derivatization agent should be prepared fresh every second day. The chromatographic analysis was carried out on a column with C$_18$ particles (diameter 1.7~$\mu$m), length 150~mm, diameter 2.1~mm. The column was tempered on 50~$^\circ$C. The mobile phase A was a mixture of disodium phosphate, sodium tetraborate and sodium azide (pH~7.8). The mobile phase B was a mixture of methanol, acetonitrile and Milli-Q water in the ratio 20:60:20. The mobile phase flow rate was 0.4~ml/min and the gradient elution was used. The derivatives were detected spectrophotometrically at 338~nm. The limit of detection was determined in the units of $\mu$mol/l (e.g. 1.1~$\mu$mol/l for threonine and 6.2~$\mu$mol/l for histidine). 
+
+Hanczkó et al.\cite{Hanczko2007} compared the stability of derivatives of 37 amino acids and amines with derivatization agents OPA/ethanethiol, OPA/2-mer\-cap\-to\-eth\-an\-ol and OPA/3-mercaptopropionic acid. The derivatization agents were prepared fresh in every case, they were used after 90 minutes from the prepartion and they were kept at 4~$^\circ$C. The derivatization was performed in a borate buffer (pH from 9.3 to 11.3) for 1 minute. The separation was carried out with the gradient elution on three columns: BST Hypersil ODS with length 15~cm, diameter 4~mm and particles with diameter 5~$\mu$m; Thermo Hypersil ODS with length 20~cm, diameter 4.6`mm and particles with diameter 5~$\mu$m; and Waters X-Bridge C$_18$ with length 15~cm, diameter 4.6~cm and particles with diameter 3.5~$\mu$m. The derivatives were detected both spectrophotometrically between 190 and 400 nm and spectrofluorimetrically ($\lambda_{ex}=337$~nm and $\lambda_{em}=454$~ nm). The conclusion of their work is that in most cases the derivatization agent OPA/2-mer\-cap\-to\-eth\-an\-ol is used, even though the derivatives with OPA/ethanethiol are more stable. 
+
+Asadpoor et al.\cite{Asadpoor2014} developed a method for determination of the authenticity of fruit juices according to the amount of amino acids using HPLC with the pre-column derivatization (the derivatization agent OPA/3-mercaptopropionic acid). Juice samples were filtrated through a 0.45~$\mu$m filter before the derivatization. The derivatization was performed in a borate buffer (pH~9.5) for 1 minute and it was terminated by addition of 0.7M hydrochloric acid. Then the sample was diluted by a mobile phase A and it was applied on a column. The mobile phase B was a mixture of methanol and sodium phosphate (10:90, v/v). The mobile phase B was a mixture of methanol and tetrahydrofurane (97:3, v/v). The sample was separated by the gradient elution, the mobile phase flow rate was 1 ml/min. The detection was performed spectrofluorimetrically ($\lambda_{ex}=330$~nm and $\lambda_{em}=450$~nm).
+
+Körös\cite{Koros2008} in her dissertation dealt with the analysis of amino acids and amines in biological tissues and in food samples using HPLC with the derivatization agent OPA/ethanethiol. The derivatization reaction took 2 minutes. The separation using HPLC was carried out on 5 columns filled with different stationary phases. The gradient elution was applied with the mobile phase flow rate 1.8~ml/min. The columns were tempered on 50~$^\circ$C. The derivatives were detected simultaneously spectrophotometrically and spectrofluorimetrically.
+
+Boyd et al.\cite{Boyd2000} developed a method for determination of 16~amino acids in physiological samples. They used capillary LC connected to an \textit{in vivo} microdialysis device. The microdialysis was carried out on rats inside their grey matter. The fractions of 200~nl were taken in ten-second intervals, then the microvials with the fractions were closed with Parafilm and were kept at -20~$^\circ$C. The derivatization was performed with the derivatization agent OPA/2-methylpropane-2-thiol in a borate buffer (pH~10.6~$\pm$~0.1) for 2 minutes. For removing redundant thiol after the reaction, iodoacetic acid was added to the sample. The stationary phase were silica capillaries with length 40~cm and diameter 48~$\mu$m and with particles Alltima C$_8$ (diameter 5~$\mu$m, pores 100~nm). The derivatives were after separation detected electrochemically - a carbon microelectrode was used as the working electrode, the reference electrode was an argentochloride electrode. The dependence of current on applied potential was measured from 0 to 1.8~V with the rate 1~V/s. The limits of detection for all determined amino acids were approx. 300~pM. The contribution of this work is the presentation of the method with short time resolution (10~seconds). The concentration of the neurotransmitter amino acids can be changed in a few seconds.
+
+Moulin et al.\cite{Moulin2002} focused their work on the determination of pipecolic acid using HPLC with the pre-column derivatization by ninhydrin. Pipecolic acid (piperidine-2-carboxylic acid) is a nonproteinogenic imino acid. It is created during the biosynthesis of lysine in bacteria and yeasts or during degradation of lysine in plants and animals. It also plays a role during the biosynthesis of some alkaloids. The high content of pipecolic acid in blood plasma points to disorders of peroxisomes (e.g. Zellweger syndrome). For determination of this imino acid, first primary amino acids were removed from a sample by a reaction with nitric acid. Then the microwave-assisted derivatization with ninhydrin was carried out (heating the solution, irradiation for 2~minutes, output 500~W) during which the present secondary amino groups reacted. Then the separation of the derivatives using RP-HPLC took place. Details about the separation conditions were not given. The detection of the derivatives was performed by spectrophotometry at 570~nm. The limit of detection of pipecolic acid was 20~pmol.
+
+Pereira et al.\cite{Pereira2008} developed a method for simultaneous determination of 19 amino acids and 6~biogenic amines in 9~wine samples and in 12~honey samples using RP-HPLC with the pre-column derivatization (OPA/2-mercaptoethanol). The derivatization was performed in a borate buffer (pH~10.5) for 3~minutes in an injection loop (volume 50~$\mu$l). The derivatization agent was used after 90~minutes from preparation, it was kept in dark bottles at 4~$^\circ$C and every nine days it was prepared fresh. The separation was carried out on a column Nova-Pack RP-C$_{18}$ (length 150~mm, diameter 3.9~mm, particle size 4~$\mu$m). Two mobile phases were used - the mobile phase A was 1~\% of tetrahydrofurane, 8~\% of methanol and 91~\% of a phosphate buffer; the mobile phase B was 80~\% of methanol and 20~\% of a phosphate buffer. The mobile phase flow rate was 1~ml/min and the column was tempered on 35~$^\circ$C. The detection of the derivatives was made by spectrofluorimetry ($\lambda_{ex}=335$~nm and $\lambda_{em}=440$~nm). It was found out that the most abundant amino acids in honey and wine are phenylalanine and arginine. Limits of detection were in the range from 0.71~mg/l for asparagine to 8.26~mg/l for lysine. The derivatization agent was made with OPA therefore the content of proline, hydroxyproline and cysteine cannot be determined by this metod.
+
+Beale et al.\cite{Beale1990} dealt with the application of a new fluorogenic reagent FQCA for the analysis of primary amino acids with the detection using laser-induced fluorescence. First the pre-column derivatization with the derivatization agent FQCA/CN$^{-}$ was performed at pH 7--9 at 37~$^\circ$C for 45~minutes, then the derivatives were separated by microliquid chromatography. The stationary phase was a silica capillary (length 0.5~m, diameter 0.25~mm, C$_{18}$ particles, size 5~$\mu$m). The gradient elution was used, first 20\% acetonitrile in aqueous solution with 0.2~\% of triethylamine and 0.2~\% of acetic acid, then the content of acetonitrile was increased with the step of 5~\% to 50~\%. The detection of the derivatives was carried out by laser-induced fluorescence using argon laser (488~nm). The derivatives were stable in the solution for more than 2~hours. Also the optimal concentrations of cyanide ions and FQCA for optimal fluorescence yield were determined.
+
+\subsubsection{Capillary electrophoresis (CE)}
+\label{CE}
+
+Capillary electrophoresis (CE) is the newest technique used for the analysis of amino acids. In most cases capillary zone electrophoresis (CZE) is used.\cite{Peace2005} Also micellar electrokinetic capillary chromatography (MECC) is often used, in a solution there is charged surfactant at a concentration greater than the critical micellar concentration. In the capillary there is an aqueous mobile phase and a micellar pseudostationary phase. Analytes in a sample are divided between these two phases. 
+
+The number of theoretical plates is up to 1$\cdot$10$^{6}$/m, the mass detection limits are lower than in the case of HPLC.\cite{Fukushima2003} However the concentration detection limits are higher because the injection volume is in the order of nl. For increasing the method sensitivity, an appropriate fluorescence agent has to be used. The agent has to be hydrophilic enough so that it is not adsorbed on the capillary wall. In capillary electrophoresis, laser-induced fluorescence (LIF) is used with argon or helium-cadmium laser. In last years, more expensive gas lasers are replaced with cheaper light-emitting diodes (LED) or with solid lasers.\cite{Poinsot2008}
+
+The CE-LIF system can be easily connected to a microdialysis probe through flow interface.\cite{Fukushima2003} Microdialysis can be used for observing changes in concentrations of analytes directly in tissues of living organisms or in body fluids. The microdialysate flow is in the range 1--2~$\mu$l/min. To collect a sufficient volume of a sample for detection of an analyte, the collection needs to be for 5 to 15 minutes which is not satisfactory for observing fast changes in concentrations. However methods with shorter time resolution are under development.
+
+In CE-LIF, the on-column derivatization with the derivatization agent NDA is used in most cases.\cite{Poinsot2008} In some methods, a combination of CE with MS is used in which the derivatization step is left out.\cite{Kaspar2009}
+
+Veledo et al.\cite{Veledo2005} dealt with the development of a method using CE-LIF with the on-column derivatization with the derivatization agent FQCA/CN$^{-}$. First a solution of potassium cyanide was injected into the column, then a solution of a sample and finally a solution of FQCA. Then reservoirs with the separating buffer were placed at both ends of the capillary and voltage 3~kV was applied for mixing the zones. Then voltage 12.5~kV was applied for separating the analytes. The capillary had length 60~cm (effective length 50~cm) and inner diameter 50~$\mu$m. Fluorescence was measured perpendicularly to the laser beam. The determined limits of detection were from 23~nM for glycine to 50~nM for lysine and glutamic acid. The derivatization and the separation were done in less than 30~minutes. The method was applied also for pharmaceutical products and for plasma samples.
+
+Tian et al.\cite{Tian2014} determined the content of 11~free amino acids in 7~beer samples. CE-LIF with the on-column derivatization (OPA/2-mercaptoethanol) was used for the separation. A sample and the derivatization agent were applied into a capillary in the "sandwich" mode. The separation was carried out in a silica capillary with inner diameter 50~$\mu$m and with length 50~cm (effective length 48~cm) during voltage 200~V/cm. For better separation, sodium dodecyl sulphate (SDS), an ionic liquid $[$BMIm$]$BF$_4$, $\alpha$-cyclodextrine and acetonitrile were added into the separating borate buffer. The limit of detection was determined as 10~$\mu$M.
+
+Nandi et al.\cite{Nandi2013} dealt with the development of a microchip electrophoretic device that could be easily connected with a microdialysis device. The microchip device was constructed from poly(dimethylsiloxane) (PDMS) photolitographically. Microdialysis was performed \textit{in vitro} with a solution of amino acids. Amino acids were derivatized using the derivatization agent NDA/CN$^-$ (7~mM NDA, 10~mM NaCN) either outside the device (off-line analysis) or directly inside the channels (on-line analysis). The separating buffer (pH~9.2) consisted of 20~mM boric acid, 10~mM SDS and 10~\% ACN. The detection was performed by radiation-induced fluorescence, as the light source a mercury lamp was used. The device can be used for continual detection of neurotransmitter amino acids. 
+
+Chang et al.\cite{Chang2011} developed a method for quantification of branched-chain amino acids in the fluid accumulated in the abdominal cavity of a patient using capillary electrophoresis with LED-induced fluorescence (CE-LEDIF). The branched-chain amino acids (leucine, isoleucine and valine) are biomarkers for monitoring of liver diseases (hepatitis, hematoma). The determination was performed in a solution of poly(ethylendioxide) and it was found out that the presence of this substance minimizes adsorption of an analyte on the capillary wall and it improves efficiency and resolution. The pre-column derivatization with the derivatization agent NDA/CN$^-$ (pH~9.5) was used. The separation took 15~minutes and totally 15~amino acids were separated. The determined limit of detection was 11~nM.
+
+Kao et al.\cite{Kao2010} analyzed a mixture of amino acids and biogenic amines from breast cancer cells using CE-LEDIF. The derivatization took place outside the electrophoretic device. The mixture of amino acids and amines was mixed with the derivatization agent NDA/CN$^-$ (0.3~mM NDA, 0.3~mM NaCN in a borate buffer for the derivatization of standards; 0.8~mM NDA, 0.8~mM NaCN in a borate buffer for the derivatization of amino acids from cancer cells), the reaction took 40~minutes at room temperature. The separation was performed in a silica capillary with length 40~cm (effective length 30~cm) or 65~cm (effective length 55~cm) and with inner diameter 75~$\mu$m. For separation, 0.1\% solution of poly(ethylenoxide) in a borate buffer (pH~9.0) with SDS was used. Totally 14 derivatives (11~amino acids, 3~biogenic amines) were separated during 16~minutes. The detection was performed by LED-induced fluorescence (diode InGaN, the highest output at 405~nm). The limit of detection was in the range from 2.06 to 19.17~nM. It was found out that mostly the content of taurine and glutamine  is changed in cancer cells.
+
+Chang et al.\cite{Chang2006} separated amino acids from the cerebrospinal fluid using CE-LEDIF with the on-column derivatization and also outside the column (NDA/CN$^-$). Concentrations differing from the normal state of acids $\gamma$-aminobutyric and glutamic and of glutamine can signalize neurologic and psychiatric disorders (epilepsy, anxiety, depression). A silica capillary was used with length 50~cm (effective length 40~cm) and with inner diameter 75~$\mu$m. For separation, 1.5\% solution of poly(ethylenoxide) in 10~mM borate buffer (pH~9.3) was used. After applying analytes and reagents into the capillary, voltage 0.25 and 1.2~kV was applied for 15~minutes for mixing and the derivatization reaction. Then voltage 15 or 20~kV (for bigger sample volumes) was applied for derivatives separation. The detection was performed by LED-induced fluorescence (diode InGaN, the highest output at 405~nm). The limit of detection was determined as 4~nM for $\gamma$-aminobutyric acid. In their future work, authors planned to deal with the determination of $\gamma$-aminobutyric acid \textit{in vivo}.
+
+Zhang et al.\cite{Zhang2009} analyzed 19~free amino acids and 2~catecholamines in samples of human plasma and of rabbit vitreous using CE-LIF with the derivatization agent Br-BQCA/CN$^-$. Nonproteinogenic amino acids taurine occurs in higher contents in eye retina where it controls the regulation of osmotic pressure, development and maintenance of photosensitive cells and retina degradation. Higher concentration of glycine in plasma is a marker of propionic acidemia. First, the derivatization of a solution of amino acids and catecholamines was performed by addition of 80~$\mu$l of Br-BQCA solution (15~mM) and 40~$\mu$l of KCN solution (15~mM). The reaction occured in the dark for 50~minutes at 55~$^\circ$C. For separation, a silica capillary was used with length 60.2~cm (effective length 50~cm) and with inner diameter 75~$\mu$m. It was tempered on 25~$^\circ$C. The separation was carried out in a borate buffer (pH~9.1) with SDS. For detection, argon laser was used (3~mW, 488~nm) with emission wavelength 520~nm. The limit of detection was determined as 0.65~nM.
+
+Zhang et al.\cite{Zhang2011} suggested using micellar electrokinetic capillary chromatography with laser-induced fluorescence detection (MECC-LIF) for determination of 16~amino acids and 2~catecholamines in two types of cells. Cl-BQCA/CN$^-$ was used as the derivatization agent. 80~$\mu$l of Cl-BQCA solution (30~mM) and 40~$\mu$l of KCN (15~mM) were added to the solution of amino acids and catecholamines. The mixture was incubated at 50~$^\circ$C for 50 minutes in the dark in a borate buffer (pH~8.0). The separation was carried out in a silica capillary with length 60.2~cm (effective length 50~cm) and with inner diameter 75~$\mu$m. The separating buffer consisted of 120~mM boric acid, 38.5~mM SDS and 17\%~acetonitrile in deionized water. Buffer pH was 9.15. The detection was performed with argon laser (3~mW, 488~nm). The fluorescence of derivatives was measured at 520 nm. The limit of detection was determined as 1.4~nM.
+
+Veledo et al.\cite{Veledo2006} analysed amino acids in human plasma using CE-LIF in order to diagnose aminoacidopathies. Capillaries with length 60~cm (effective length 50~cm) and with inner diameter 50~$\mu$m were used. A mixture of 16~amino acids was derivatized on the column using a solution of FQCA/CN$^-$. First, a KCN solution (50~mM) was injected into the capillary, then the amino acid solution and finally FQCA solution (24~mM, H$_2$O:propanol 1:1). For 6~minutes, voltage 3~kV was applied for mixing and reacting of solutions at 45~$^\circ$C, then voltage was increased to 12.5~kV at 24~$^\circ$C for separation of derivatives. Argon laser (488~nm) was used for detection, fluorescence was measured perpendicularly. The detection and the separation took less than 30~minutes. The limit of detection was in the range from 25 to 50~nM.
+
+Yassine et al.\cite{Yassine2008} were developing an electrophoretic chip from PDMS for amino acid analysis with the on-chip derivatization using the derivatization agent NDA/CN$^-$. The surface of PDMS had to be chemically modified because NDA difussed inside the PDMS structure. The derivatization was carried out directly in the chip in a reaction chamber. A NDA solution (5.6~mM) was mixed with a solution of glycine (100~$\mu$M) and with a solution of cyanide ions (2.8~mM) in a borate buffer (pH~8.7) at voltage 300~V/cm. After the derivatization reaction, separating voltage 750~V/cm was applied and the derivatives were separated. The detection was performed with two optical cables that provided excitation and taking the fluorescence signal into the detector. The limit of detection was determined as 40~nM for glycine.
+
+It was found out that D-amino acids are present at very small concentrations (compared to L-amino acids) in brain and other nerve tissues (eye tissues, lens).\cite{Fukushima2003,Thongkhao2004,Ptolemy2006} For example, the concentration of D-serine increases in eye tissues during light stimulation. Because of low concentration of D-amino acids, very sensitive methods have to be used for their detection.
+
+Thongkhao-On et al.\cite{Thongkhao2004} determined amino acids in vitreous of rats using CE-LIF. 1~$\mu$l of CBQCA solution (10~mM) was added to a sample, after 1~minute 1~$\mu$l of KCN solution (10~mM) in a phosphate buffer was added. The mixture was incubated for 2~hours at room temperature. The separation was performed in a silica capillary with length 57~cm (effective length 50~cm) and with inner diameter 50~$\mu$m at room temperature and at separating voltage 360~V/cm. The separating buffer consisted of 20~mM sodium tetraborate, 45~mM SDS, 55~mM $\beta$-cyclodextrine and 20~mM sodium chloride. The derivatives were detected using argon laser-induced fluorescence (488~nm). The important finding of this work is that D-serine was separated from L-serine.
+
+Ptolemy et al.\cite{Ptolemy2006} developed a method for the determination of enantioselective amino acid flux in a culture of \textit{Escherichia coli} bacteria. In one step, on-line sample preconcentration and derivatization of analytes in a capillary using the derivatization agent OPA/N-acetylcysteine (100~mM OPA, 150~mM N-acetylcysteine, both compounds dissolved in a borate buffer pH~9.5) was performed. For separation, a silica capillary with length 67 or 90~cm and with inner diameter 50~$\mu$m was used, the capillary was used for sample preconcentration, as a microreactor for the derivatization reaction and as a chiral selector. First, a NAC solution was injected into the capillary, then an amino acid solution (taken from the extracellular liquid during incubation of bacteria) followed by an OPA solution. The separation was carried out at voltage 25~kV and at 25~$^\circ$C. The detection was made by measuring UV absorption at 214 or 340~nm. During the exponential growth of bacteria, the flow of L-alanine into the extracellular liquid was discovered, on the contrary inside the cells there was a large amount of D-alanine. The limit of detection was determined in the ranges lower than $\mu$M. By this technique, D-amino acids in mixtures with 95\%~enantiomeric excess can be determined.
+
+\subsubsection{Other techniques}
+\label{other}
+
+Robert-Peillard et al.\cite{Robert2014} focused their work on determination of proline in the wine samples. Proline is the most abundant amino acid in wine, it creates 30--85~\% of total amino acid content. By the content of proline, wine can be distinguished according to the type of grapes and growth conditions. By that the origin of wine and possible falsification can be revealed. Authors developed a method for microtiter plates. 100~$\mu$l of diluted wine samples or of standard proline solution were placed into holes of the microtiter plate. Then 30~$\mu$l of OPA solution (30~mM, dissolved in the mixture of ethanol-phosphate buffer 20:80, v/v) was added. OPA reacted with the present primary amino compounds yielding nonfluorescent derivatives. The plate was shaken for 4~minutes and then 25~$\mu$l of NaOCl solution (2~mM) were added for oxidation of proline to primary amine. The plate was shaken for another 2~minutes followed by addition of 50~$\mu$l of the derivatization agent OPA/N-acetylcysteine (3~mM OPA, 6~mM N-acetylcysteine, in a borate buffer, pH~10.5). The derivatization agent reacted with oxidized proline yielding fluorescent derivatives. The plate was shaken for 4~minutes and then the fluorescence was measured ($\lambda_{ex}=330$~nm and $\lambda_{em}=455$~nm). 
+
+Ninhydrin is used as an universal agent for the determination of latent fingerprints on porous materials (e.g. paper). This method is often used in forensic sciences.\cite{Friedman2004} The principle of this method is either a reaction of ninhydrin with free amino acids from left sweat and wax or creation of metal complexes between Ruhemann's purple and metal salts (cadmium, europium, iron, zinc). These metal complexes are strongly fluorescent under blue-green light of argon laser.
+
+Ruhemann's purple is generated slowly at room temperature therefore often higher temperature is applied for the development of colour.\cite{Jelly2009} A problem can occur with the reaction of ninhydrin with aditives in paper at higher temperatures. By that fingerprints can be destroyed.
+
+Mostly a 0.5\% (w/v) solution of ninhydrin is used and the colour is left to develop for 24--48 hours and with humidity 50--80~\%.\cite{Jelly2009}
+
+Ninhydrin is used also in thin-layer chromatography for detection of amino acids in the form of spray reagents.\cite{Sinhababu2015} Sinhababu et al. prepared two new reagents with high sensitivity for simple and fast identification of amino acids. Standard amino acid solutions of concentration 1 mg/ml in a phosphate buffer (pH~8.0) were applied on a plate (20 x 20~cm, thickness 0.1~mm) using graduated micropipette of volume 5~$\mu$l. The plates were processed with the mixture \textit{n}-propanol-water 70:30 (v/v). Then the plates were dried and a reagent I (ninhydrin + picric acid) or a reagent II (ninhydrin + \textit{o}-chloranil) was applied on the plate. Then the plates were dried again and they were heated at 110~$^\circ$C for 10~minutes. Different colours were observed. The limit of detection was in the range from 0.04 to 0.80~$\mu$g for picric acid and from 0.10 to 8.00~$\mu$g for \textit{o}-chloranil.
