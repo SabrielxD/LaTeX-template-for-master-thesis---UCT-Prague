@@ -1,4 +1,5 @@
 # LaTeX template for master thesis - UCT Prague
+
 A LaTeX template for Master thesis that can be used by students at University of Chemistry and Technology, Prague
 
 It can be easily imported into [Overleaf](https://www.overleaf.com/).
@@ -10,3 +11,7 @@ The files include a few examples on e.g. inserting figures, tables, or bibliogra
 Figures are stored in the `figures` subdirectory.
 
 References (including few examples) are stored in the `papers.bib` file.
+
+Created on 18-May-2022.
+
+https://orcid.org/0000-0001-6259-3225
