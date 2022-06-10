@@ -7,9 +7,6 @@
 
 \ProvidesPackage{master_thesis_style}[2022/05/18 Master thesis VSCHT - UCT Prague]
 
-\def\pwidth{210}
-\def\margin{25mm}
-
 \usepackage[version=3]{mhchem} % commands for typesetting chemical molecular formulae and equations
 
 \usepackage[colorlinks=true, linkcolor=black, citecolor=black, filecolor=black, urlcolor=black]{hyperref} % to handle cross-referencing commands
@@ -49,6 +46,10 @@
 \usepackage{afterpage} % execute command after the next page break
 \usepackage{acronym} % ensures that all acronyms used in the text are spelled out in full at least once
 \usepackage{geometry} % modifying page margins
+
+% setting the page geometry
+\geometry{margin = 2.5 cm, footskip = 0 cm}
+
 \usepackage[nottoc]{tocbibind} % automatically adds the bibliography and/or the index and/or the contents, etc., to the Table of Contents listing
 	\setlofname{LIST OF FIGURES} % setting the displayed name of the list of figures
 	\setlotname{LIST OF TABLES} % setting the displayed name of the list of tables
